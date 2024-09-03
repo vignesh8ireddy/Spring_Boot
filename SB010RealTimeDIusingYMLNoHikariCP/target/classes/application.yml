@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: SB010RealTimeDIusingYMLNoHikariCP
+    datasource:
+        password: root
+        url: jdbc:mysql:///student_schema
+        username: root
