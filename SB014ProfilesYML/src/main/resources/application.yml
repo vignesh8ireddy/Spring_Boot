@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: SB014ProfilesYML
+
+  profiles:
+    active: uat
+
+
