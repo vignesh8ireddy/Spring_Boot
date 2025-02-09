@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SB014ProfilesYML" />
+        <module name="SB017JdbcTemplateDirectMethods" />
+        <module name="SB002DependencyInjection" />
+        <module name="SB018JdbcTemplateCallBackMethods" />
+        <module name="SB004ConfigurationProperties" />
+        <module name="SB005CollectionInjection" />
+        <module name="SB015Runners" />
+        <module name="SB009DIJavaConfigDynamicChoosing" />
+        <module name="SB001SpringBootDemo" />
+        <module name="SB016JdbcTemplateUsingappContext" />
+        <module name="SB010RealTimeDIusingYMLNoHikariCP" />
+        <module name="SB003JDBCapiMySQLdriver" />
+        <module name="SB006CollectionInjectionYML" />
+        <module name="SB013Profiles" />
+        <module name="SB012SpExpressionLanguage" />
+        <module name="SB008DIJavaConfig" />
+        <module name="SB011RealTimeManualDataSourceInjection" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SB001SpringBootDemo" options="-parameters" />
+      <module name="SB002DependencyInjection" options="-parameters" />
+      <module name="SB003JDBCapiMySQLdriver" options="-parameters" />
+      <module name="SB004ConfigurationProperties" options="-parameters" />
+      <module name="SB005CollectionInjection" options="-parameters" />
+      <module name="SB006CollectionInjectionYML" options="-parameters" />
+      <module name="SB008DIJavaConfig" options="-parameters" />
+      <module name="SB009DIJavaConfigDynamicChoosing" options="-parameters" />
+      <module name="SB010RealTimeDIusingYMLNoHikariCP" options="-parameters" />
+      <module name="SB011RealTimeManualDataSourceInjection" options="-parameters" />
+      <module name="SB012SpExpressionLanguage" options="-parameters" />
+      <module name="SB013Profiles" options="-parameters" />
+      <module name="SB014ProfilesYML" options="-parameters" />
+      <module name="SB015Runners" options="-parameters" />
+      <module name="SB017JdbcTemplateDirectMethods" options="-parameters" />
+      <module name="SB018JdbcTemplateCallBackMethods" options="-parameters" />
+    </option>
+  </component>
+</project>

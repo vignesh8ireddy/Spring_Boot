@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>app</groupId>
-	<artifactId>004ConfigurationProperties</artifactId>
+	<artifactId>SB004ConfigurationProperties</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot004</name>
 	<description>springboot004</description>

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>app</groupId>
-	<artifactId>springboot003</artifactId>
+	<artifactId>SB003JDBCapiMySQLdriver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot003</name>
 	<description>springboot003</description>

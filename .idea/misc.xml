@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SB015Runners/pom.xml" />
+        <option value="$PROJECT_DIR$/SB013Profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/SB014ProfilesYML/pom.xml" />
+        <option value="$PROJECT_DIR$/SB008DIJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/SB001SpringBootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SB003JDBCapiMySQLdriver/pom.xml" />
+        <option value="$PROJECT_DIR$/SB002DependencyInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/SB005CollectionInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/SB012SpExpressionLanguage/pom.xml" />
+        <option value="$PROJECT_DIR$/SB006CollectionInjectionYML/pom.xml" />
+        <option value="$PROJECT_DIR$/SB004ConfigurationProperties/pom.xml" />
+        <option value="$PROJECT_DIR$/SB017JdbcTemplateDirectMethods/pom.xml" />
+        <option value="$PROJECT_DIR$/SB009DIJavaConfigDynamicChoosing/pom.xml" />
+        <option value="$PROJECT_DIR$/SB016JdbcTemplateUsingappContext/pom.xml" />
+        <option value="$PROJECT_DIR$/SB018JdbcTemplateCallBackMethods/pom.xml" />
+        <option value="$PROJECT_DIR$/SB010RealTimeDIusingYMLNoHikariCP/pom.xml" />
+        <option value="$PROJECT_DIR$/SB011RealTimeManualDataSourceInjection/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
